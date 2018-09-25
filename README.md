@@ -1,15 +1,15 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/salomonelli/best-resume-ever">
+  <a href="https://github.com/LladnekD/resume-vue">
   <img src="src/assets/logo.png" alt="Markdownify" width="200"></a>
   <br>
-  best-resume-ever
+  resume-vue
   <br>
 </h1>
 
 <div align="center">
 
-[![Travis badge](https://travis-ci.org/salomonelli/best-resume-ever.svg?branch=master)](https://travis-ci.org/salomonelli/best-resume-ever)
+[![Travis badge](https://travis-ci.org/LladnekD/resume-vue.svg?branch=master)](https://travis-ci.org/LladnekD/resume-vue)
 
 </div>
 
