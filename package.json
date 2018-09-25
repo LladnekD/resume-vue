@@ -1,12 +1,12 @@
 {
-  "name": "best-resume-ever",
+  "name": "A Vue to a Resume",
   "version": "1.0.0",
-  "description": "Build fast and easy multiple beautiful resumes and create your best CV ever! ",
+  "description": "A Resume template display adapted for my own purposes",
   "author": "salomonelli",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salomonelli/best-resume-ever.git"
+    "url": "git+https://github.com/LladnekD/resume_vue.git"
   },
   "scripts": {
     "docs": "node build/build.js",
