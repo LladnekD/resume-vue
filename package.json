@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LladnekD/resume_vue.git"
+    "url": "git+https://github.com/LladnekD/resume-vue.git"
   },
   "scripts": {
     "docs": "node build/build.js",
-    "docs:serve": "cd docs/ && ws --port 8080 --rewrite '/resume_vue/* -> /$1'",
+    "docs:serve": "cd docs/ && ws --port 8080 --rewrite '/resume-vue/* -> /$1'",
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
     "pdf": "node scripts/export.js",
